@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "okta-idx-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/okta/okta-idx-swift.git",
+      "state" : {
+        "revision" : "d605c3262036e3323d2f0a26daeb0b75da8aac8a",
+        "version" : "3.0.6"
+      }
+    },
+    {
+      "identity" : "okta-mobile-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/okta/okta-mobile-swift",
+      "state" : {
+        "revision" : "3543bac69b2436355b2e93106ed90edb7804f8e4",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
